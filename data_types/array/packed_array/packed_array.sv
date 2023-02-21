@@ -4,8 +4,8 @@ module packed_array;
   logic [15:0]pqr;
   reg [7:0]xyz;
  initial begin
-abc = 4'b0110;
-  pqr = 16'h10fe;
+abc = 4'b010;
+  pqr = 16'h10ef;
   xyz = 8'd16;
    $display("\n displaying the bit data type values");
   foreach(abc[i]) begin

@@ -16,3 +16,23 @@ module forever_loop;
   end
 
 endmodule
+//@ 0 ns Iteration 0
+	
+// @ 4 ns Iteration 1
+	
+// @ 8 ns Iteration 2
+	
+// @ 12 ns Iteration 3
+	
+// @ 16 ns Iteration 4
+	
+// @ 20 ns Iteration 5
+	
+// @ 24 ns Iteration 6
+	
+// @ 28 ns Iteration 7
+	
+// @ 32 ns Iteration 8
+
+	
+//@ 36 ns Stopped using break

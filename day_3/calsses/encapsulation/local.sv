@@ -32,3 +32,4 @@ endmodule
 
 //sum = 15
 //d = 5
+// local variable can be accessed by both the parent and the child class

@@ -32,4 +32,4 @@ endmodule
 
 //sum = 15
 //d = 5
-// local variable can be accessed anywhere from the program
+// local variable or private can be accessed only within the class

@@ -3,7 +3,6 @@ rand bit [1:0]a;
 rand bit [2:0]b;
 endclass
 pack p =new;
-
 module cvgrp_inside_mod;
 covergroup cgrp ;
   c1: coverpoint p.a; 

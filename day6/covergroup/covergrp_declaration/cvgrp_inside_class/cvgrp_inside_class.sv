@@ -1,4 +1,3 @@
-
 class pack;
  rand  bit [1:0] a;
 rand  bit [1:0] b;

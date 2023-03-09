@@ -1,7 +1,6 @@
 module using_evnt;
 bit [1:0]a;
 event e;
-
 covergroup cgrp @ (e.triggered);
   c1 : coverpoint a;
 endgroup

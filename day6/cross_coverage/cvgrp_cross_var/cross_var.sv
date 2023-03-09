@@ -1,4 +1,3 @@
-
 module cross_var;
  bit  a;
  bit  b;

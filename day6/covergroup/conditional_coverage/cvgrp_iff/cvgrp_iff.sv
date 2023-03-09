@@ -8,7 +8,6 @@ covergroup cvgrp @ (posedge clk);
                                bins b2 = {5};}
 endgroup 
 cvgrp cg=new;
-
 initial begin
 for(int i=0;i<8;i++)begin
      a=$random;

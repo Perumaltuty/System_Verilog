@@ -6,7 +6,6 @@ covergroup cgrp;
   c2: coverpoint b;
 endgroup
 cgrp cg =new();
-
 initial begin
 repeat (5)begin
   a=$random();

@@ -10,7 +10,6 @@ class pack;
   cg = new();
 endclass
 pack p = new();
-
 module cvgrp_cross;
   initial begin
     repeat(5) begin

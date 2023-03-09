@@ -1,4 +1,3 @@
-
 module cvgrp_using_clk;
 bit [2:0]a;
 bit b;

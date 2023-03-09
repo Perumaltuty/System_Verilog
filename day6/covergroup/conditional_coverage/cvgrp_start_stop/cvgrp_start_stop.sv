@@ -3,7 +3,6 @@ randc  bit [2:0]a;
 randc bit b;
 endclass
 samp s;
-
 covergroup cgrp;
   c1: coverpoint s.a;
   c2: coverpoint s.b;

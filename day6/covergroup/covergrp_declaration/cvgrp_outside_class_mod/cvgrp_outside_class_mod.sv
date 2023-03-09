@@ -7,7 +7,6 @@ covergroup cgrp;
   c1: coverpoint c.a;
   c2: coverpoint c.b;
 endgroup
-
 module outside;
 cgrp cg=new();
 initial begin
